@@ -4,3 +4,4 @@
 
 
 $\frac{B}{A} = \frac{ H * W * h1 * w1 * c1/g * c2/g * g}{H * W * h1 * w1 * c1 * c2} = \frac{1}{g}$  
+$\frac{1}{2x+1}$
